@@ -1,4 +1,4 @@
-# Frequency Domain Filtering Exercise (Computer Vision)
+# Frequency Domain Filtering(Computer Vision)
 
 ## Overview
 
