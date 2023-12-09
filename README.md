@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a program designed for the exercise on frequency domain filtering in the field of computer vision. The task involves implementing ideal, Gaussian, and Butterworth high-pass filters in the frequency domain (using Fourier Transform), considering the characteristics of their coefficients and positions. Additionally, the program compares these frequency domain filters with spatial domain filters.
+This repository contains a program designed for the exercise on frequency domain filtering in the field of computer vision. The task involves implementing iGaussian, homomorphic,Butterworth, and ideal low-pass and high-pass filters in the frequency domain (using Fourier Transform), considering the characteristics of their coefficients and positions. Additionally, the program compares these frequency domain filters with spatial domain filters.
 
 ## Implementation
 
